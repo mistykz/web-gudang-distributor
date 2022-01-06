@@ -26,7 +26,7 @@ Note : _dapat registrasi akun user baru sesuai dengan keinginan kita_.<br>
 
 # Run
 - Paste folder repo yang telah di clone/di download (folder repo yang telah direname menjadi "webgudang") pada direktori "<code>C://xampp/htdocs/</code>".
-- Harap membuat database terlebih dahulu pada <code>localhost/phpmyadmin</code> dengan nama "web_gudang".
-- Import file "<code>web_gudang.sql</code>" pada database yang telah dibuat.
-- Setelah itu, script dapat dijalankan pada browser masing-masing dengan host <code>localhost/webgudang</code>	
+- Buka XAMPP Control Panel, lalu start Apache dan MySQL service.
+- Buat database terlebih dahulu pada <code>localhost/phpmyadmin</code> dengan nama "web_gudang". Lalu mport file "<code>web_gudang.sql</code>" pada database yang telah dibuat.
+- Setelah semua proses diatas telah selesai, script dapat dijalankan pada browser masing-masing dengan host <code>localhost/webgudang</code>	
 

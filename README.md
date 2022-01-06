@@ -1,7 +1,10 @@
 # Web Gudang Distributor (About)
 
-<br>Aplikasi berupa inventory gudang/warehouse pada distributor produk berbasis web. Aplikasi sederhana ini dibuat menggunakan framework CodeIgniter.</br>
-<br>Untuk memenuhi penugasan mata kuliah Interaksi Manusia dan Komputer</br>
+<br>Aplikasi berupa inventory gudang/warehouse pada distributor produk berbasis web. Aplikasi sederhana ini dibuat menggunakan framework CodeIgniter. Project ini dibuat untuk memenuhi penugasan mata kuliah Interaksi Manusia dan Komputer</br>
+- Nama  : I Made Arthya Andika Putra
+- NIM   : 2008561052
+- Kelas : B
+- Prodi : Informatika
 
 # Requirements
 - PHP versi 5.3.7 atau yang lebih tinggi.

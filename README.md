@@ -8,9 +8,9 @@ Username : admin<br>
 Password : admin
 
 <strong>Username dan Password yang disediakan untuk "User"</strong><br>
-<br>Username : user</br>
-<br>Password : user</br>
-<br>Note : _dapat registrasi akun user baru sesuai dengan keinginan kita_.</br>
+Username : user
+Password : user<br>
+Note : _dapat registrasi akun user baru sesuai dengan keinginan kita_.<br>
 
 # Notes:
 - Setelah repo ini di clone atau di download, harap ganti nama folder menjadi "webgudang".

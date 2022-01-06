@@ -1,4 +1,4 @@
-# Web-Gudang-Warehouse
+# Web-Gudang-Distributor
 
 Aplikasi berupa inventory gudang/warehouse pada distributor produk berbasis web. Aplikasi sederhana ini dibuat menggunakan framework CodeIgniter.
 

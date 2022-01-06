@@ -1,6 +1,7 @@
 # Web Gudang Distributor (About)
 
-Aplikasi berupa inventory gudang/warehouse pada distributor produk berbasis web. Aplikasi sederhana ini dibuat menggunakan framework CodeIgniter.
+<br>Aplikasi berupa inventory gudang/warehouse pada distributor produk berbasis web. Aplikasi sederhana ini dibuat menggunakan framework CodeIgniter.</br>
+<br>Untuk memenuhi penugasan mata kuliah Interaksi Manusia dan Komputer</br>
 
 # Requirements
 - PHP versi 5.3.7 atau yang lebih tinggi.

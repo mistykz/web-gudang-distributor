@@ -7,7 +7,7 @@
 - Prodi : Informatika
 
 # Requirements
-- PHP versi 5.3.7 atau yang lebih tinggi.
+- PHP versi 5.3.7 atau yang lebih tinggi (saya menggunakan PHP versi 7.4).
 - XAMPP atau sejenisnya.
 
 # User Login Database

@@ -9,7 +9,7 @@ Aplikasi berupa inventory gudang/warehouse pada distributor produk berbasis web.
 # User Login Database
 <strong>Username dan Password yang disediakan untuk "Admin"</strong><br>
 Username : admin<br>
-Password : admin
+Password : admin<br>
 
 <strong>Username dan Password yang disediakan untuk "User"</strong><br>
 Username : user<br>
@@ -22,6 +22,6 @@ Note : _dapat registrasi akun user baru sesuai dengan keinginan kita_.<br>
 
 # Run
 - Harap membuat database terlebih dahulu pada <code>localhost/phpmyadmin</code> dengan nama "web_gudang".
-- Lalu import file "web_gudang.sql".
+- Import file "<code>web_gudang.sql</code>" pada database yang telah dibuat.
 - Setelah itu, script dapat dijalankan pada browser masing-masing dengan host <code>localhost/webgudang</code>	
 

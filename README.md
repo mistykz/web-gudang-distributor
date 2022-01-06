@@ -8,7 +8,7 @@ Username : admin<br>
 Password : admin
 
 <strong>Username dan Password yang disediakan untuk "User"</strong><br>
-Username : user
+Username : user<br>
 Password : user<br>
 Note : _dapat registrasi akun user baru sesuai dengan keinginan kita_.<br>
 

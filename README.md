@@ -3,14 +3,14 @@
 Aplikasi berupa inventory gudang/warehouse pada distributor produk berbasis web. Aplikasi sederhana ini dibuat menggunakan framework CodeIgniter.
 
 # User Login Database
-<strong>Username dan Password yang disediakan untuk **Admin**</strong><br>
+<strong>Username dan Password yang disediakan untuk "Admin"</strong><br>
 Username : admin<br>
 Password : admin
 
-<strong>Username dan Password yang disediakan untuk **User**</strong><br>
+<strong>Username dan Password yang disediakan untuk "User"</strong><br>
 Username : user<br>
 Password : user
-Note : dapat registrasi akun user baru sesuai dengan keinginan kita.
+Note : _dapat registrasi akun user baru sesuai dengan keinginan kita_.
 
 # Notes:
 - Setelah repo ini di clone atau di download, harap ganti nama folder menjadi "webgudang".

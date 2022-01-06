@@ -21,6 +21,7 @@ Note : _dapat registrasi akun user baru sesuai dengan keinginan kita_.<br>
 - Jika terjadi error pada bagian invoice, maka copy file tcpdf yang terbaru (dapat di clone atau di download disini https://github.com/tecnickcom/TCPDF), lalu copy and paste semua filenya dan masukkan kedalam folder "application/libraries/tcpdf".
 
 # Run
+- Paste repo yang telah di clone/di download (folder repo yang telah direname menjadi "webgudang") pada direktori "<code>C://xampp/htdocs/</code>".
 - Harap membuat database terlebih dahulu pada <code>localhost/phpmyadmin</code> dengan nama "web_gudang".
 - Import file "<code>web_gudang.sql</code>" pada database yang telah dibuat.
 - Setelah itu, script dapat dijalankan pada browser masing-masing dengan host <code>localhost/webgudang</code>	
